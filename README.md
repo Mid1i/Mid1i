@@ -11,6 +11,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" />
+</p>
+<p display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />
