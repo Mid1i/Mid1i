@@ -7,14 +7,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
 </p>
