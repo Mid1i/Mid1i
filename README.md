@@ -12,6 +12,13 @@
 
 * Со мной можно связаться по почте ✉ michac.tchernov@yandex.ru или в [телеграмме](https://t.me/Mid1i)
 
+
+
+
+
+
+
+
 💻 Skills:
 ------------
 <p align="left">
@@ -33,6 +40,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
 </p>
+
+
+
+
+
+
 
 
 📊 GitHub Stats:
