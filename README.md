@@ -13,7 +13,7 @@
 
 
 
-# 💻 Skills:
+### 💻 Skills:
 <p display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" />
@@ -37,11 +37,11 @@
 
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Mid1i&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mid1i&theme=react&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mid1i&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 <a href="https://github.com/Mid1i" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mid1i&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mid1i&langs_count=5&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20%Languages" />
 </a>
