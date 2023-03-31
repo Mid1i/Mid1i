@@ -1,20 +1,22 @@
 Привет! 👋 Меня зовут Михаил Чернов
+===================================
 
 💻 Я занимаюсь Frontend разработкой.
+------------------------------------
 
-🏙 Живу в г. Нижний Новгород
+* 🏙 Живу в г. Нижний Новгород
 
-📋 Обучаюсь в университете
+* 📋 Обучаюсь в университете
 
-🧠 На данный момент изучаю JavaScript, а также React.js.
+* 🧠 На данный момент изучаю JavaScript, а также React.js.
 
-Со мной можно связаться по почте ✉ michac.tchernov@yandex.ru или в телеграмме https://t.me/Mid1i
+* Со мной можно связаться по почте ✉ michac.tchernov@yandex.ru или в телеграмме https://t.me/Mid1i
 
 
 
 
 ### 💻 Skills:
-<p display="flex">
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" />
@@ -24,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" />
 </p>
-<p display="flex">
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
