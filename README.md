@@ -1,8 +1,9 @@
 # 💫 About Me:
 Привет! 👋 Меня зовут Михаил Чернов<br><br>💻 Я занимаюсь Frontend разработкой.<br><br>🏙 Живу в г. Нижний Новгород<br><br>📋 Обучаюсь в университете<br><br>На данный момент изучаю JavaScript, а также React.js<br><br>Можете связаться со мной по почте: michac.tchernov@yamdex.ru<br>Или в телеграмме: https://t.me/Mid1i<br><br>
 
+# 💻 Tech Stack:
 <p display="flex">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="100" height="100" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" height="100" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100" height="100" />
