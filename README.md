@@ -16,25 +16,65 @@
 💻 Skills:
 ------------
 <p align="left">
-  <a href="https://html.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="SASS"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  <a href="https://html.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  </a>
+  
+  <a href="https://www.css3.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  </a>
+  
+  <a href="https://www.javascript.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  </a>
+  
+  <a href="https://sass-lang.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="SASS"/>
+  </a>
+  
+  <a href="https://jquery.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
+  </a>
+  
+  <a href="https://www.figma.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  </a>
 </p>
+
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  </a>
+  
+  <a href="https://cplusplus.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  </a>
+  
+  <a href="https://www.java.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  </a>
+  
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  </a>
+  
+  <a href="https://www.postgresql.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+  </a>
 </p>
 <br/>
 
 📊 GitHub Stats:
 ------------------
-<img src="https://github-readme-stats.vercel.app/api?username=Mid1i&show_icons=true&hide=stars,prs,issues,contribs&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mid1i&theme=react&hide_border=true" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mid1i&langs_count=5&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top languages"/>
+<a href="https://github.com/Mid1i">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mid1i&show_icons=true&hide=stars,prs,issues,contribs&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="Stats" />
+</a>
+
+<a href="https://github.com/Mid1i">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mid1i&theme=react&hide_border=true" alt="Stats"/>
+</a>
+
+<a href="https://github.com/Mid1i">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mid1i&langs_count=5&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top languages"/>
+</a>
 
