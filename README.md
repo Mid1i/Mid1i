@@ -39,6 +39,10 @@
   <a href="https://www.figma.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
   </a>
+
+  <a href="https://www.bootstrapcdn.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  </a>
 </p>
 
 <p align="left">
