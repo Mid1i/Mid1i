@@ -71,14 +71,6 @@
 📊 GitHub Stats:
 ------------------
 <a href="https://github.com/Mid1i">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mid1i&show_icons=true&hide=stars,prs,issues,contribs&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="Stats" />
-</a>
-<br/>
-<a href="https://github.com/Mid1i">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mid1i&theme=react&hide_border=true" alt="Stats"/>
-</a>
-<br/>
-<a href="https://github.com/Mid1i">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mid1i&langs_count=5&title_color=5ed1f0&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&locale=en&custom_title=Top%20%Languages&exclude_repo=Corners-Game,Lottery_bot" alt="Top languages"/>
 </a>
 
