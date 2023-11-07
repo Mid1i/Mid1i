@@ -31,6 +31,10 @@
   <a href="https://sass-lang.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="SASS"/>
   </a>
+
+  <a href="https://react.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
+  </a>
   
   <a href="https://jquery.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
