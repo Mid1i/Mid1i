@@ -33,20 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
 </p>
-<br/>
 
 📊 GitHub Stats:
 ------------------
