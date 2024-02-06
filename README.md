@@ -1,14 +1,14 @@
 Привет! 👋 Меня зовут Миша
 ===================================
 
-Я занимаюсь Frontend разработкой
+Я занимаюсь Front-End разработкой и вёрсткой сайтов
 ------------------------------------
 
 * 🏙 Живу в г. Нижний Новгород
 
 * 📋 Обучаюсь в университете
 
-* 🧠 Изучаю JavaScript, а также React.js. Тренируюсь на Leetcode.
+* 🧠 Изучаю JavaScript, TypeScript, а также ReactJS.
 
 * 📱 Со мной можно связаться в [телеграмме](https://t.me/Mid1i)
 <br/>
@@ -16,59 +16,35 @@
 💻 Skills:
 ------------
 <p align="left">
-  <a href="https://html.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   
-  <a href="https://www.css3.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
   
-  <a href="https://www.javascript.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  </a>
-  
-  <a href="https://sass-lang.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="SASS"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 
-  <a href="https://react.dev/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
-  </a>
-  
-  <a href="https://jquery.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
-  </a>
-  
-  <a href="https://www.figma.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="JavaScript"/>
 
-  <a href="https://www.bootstrapcdn.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="SASS"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
 </p>
 
 <p align="left">
-  <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  </a>
-  
-  <a href="https://cplusplus.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  </a>
-  
-  <a href="https://www.java.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  </a>
-  
-  <a href="https://git-scm.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  </a>
-  
-  <a href="https://www.postgresql.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
 </p>
 <br/>
 
