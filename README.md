@@ -11,6 +11,8 @@
 * 🧠 Изучаю JavaScript, TypeScript, а также ReactJS.
 
 * 📱 Со мной можно связаться в [телеграмме](https://t.me/Mid1i)
+
+*  [Сайт-визитка](https://mid1i.github.io/Portfolio/)
 <br/>
 
 💻 Skills:
