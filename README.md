@@ -1,7 +1,7 @@
 Привет! 👋 Меня зовут Миша
 ===================================
 
-Я занимаюсь Front-End разработкой и вёрсткой сайтов
+Я занимаюсь Frontend разработкой и вёрсткой сайтов
 ------------------------------------
 
 * 🏙 Живу в г. Нижний Новгород
@@ -24,17 +24,15 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="SASS"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 </p>
