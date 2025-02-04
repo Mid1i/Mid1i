@@ -8,7 +8,7 @@
 
 * 📋 Обучаюсь в университете
 
-* 🧠 Изучаю JavaScript, TypeScript, а также ReactJS.
+* 🧠 Изучаю TypeScript, а также React и Vue.
 
 * 📱 Со мной можно связаться в [телеграмме](https://t.me/Mid1i)
 
